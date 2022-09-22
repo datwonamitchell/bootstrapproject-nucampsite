@@ -41,3 +41,7 @@ footer {
     margin: 0;
 }
 
+.site-footer {
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
